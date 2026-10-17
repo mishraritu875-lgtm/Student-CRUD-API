@@ -1,6 +1,8 @@
 
 # Student CRUD REST API
 
+[![Student CRUD API Tests](https://github.com/mishraritu875-lgtm/Student-CRUD-API/actions/workflows/api-tests.yml/badge.svg)](https://github.com/mishraritu875-lgtm/Student-CRUD-API/actions/workflows/api-tests.yml)
+
 A RESTful API developed using FastAPI, Python, and SQLite to manage student records.
 
 ## Features
