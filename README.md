@@ -60,6 +60,26 @@ GitHub Actions automatically runs API tests when code is pushed to the repositor
 
 SQLite is used for storing student records.
 
+## Project Screenshots
+
+### 1. GitHub Actions - CI Pipeline
+
+Automated API tests executed successfully.
+
+![GitHub Actions](screenshots/github-actions.png)
+
+### 2. Create Student - POST API
+
+Successfully created a student record with HTTP 201 Created.
+
+![Create Student](screenshots/create-student.png)
+
+### 3. Retrieve Student - GET API
+
+Successfully retrieved a student record with HTTP 200 OK.
+
+![Get Student](screenshots/get-student.png)
+
 ## Author
 
 Ritu Mishra
