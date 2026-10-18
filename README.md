@@ -66,17 +66,20 @@ SQLite is used for storing student records.
 
 Automated API tests executed successfully.
 
-![GitHub Actions](screenshots/github-actions.png)
+![GitHub Actions](screenshots/Screenshot%202026-10-18%20120224.png)
 
 ### 2. Create Student - POST API
 
 Successfully created a student record with HTTP 201 Created.
 
-![Create Student](screenshots/create-student.png)
+![Create Student](screenshots/Screenshot%202026-10-18%20121209.png)
 
 ### 3. Retrieve Student - GET API
 
 Successfully retrieved a student record with HTTP 200 OK.
+
+![Get Student](screenshots/Screenshot%202026-10-18%20124222.png)
+  
 
 ![Get Student](screenshots/get-student.png)
 
